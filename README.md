@@ -11,7 +11,7 @@ different momentum timeframe: 1-month, 3-month, and 12-month.
 
 For each timeframe, if a security shows positive momentum, it is held long; if negative, it is shorted. 
 The portfolio is rebalanced monthly and scaled to a 30% target volatility, using the past 3 years of returns to estimate volatility. 
-The strategy was backtested on 38 securities.
+The strategy was backtested on 16 securities.
 
 ### _Why did I do this?_
 
